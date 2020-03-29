@@ -1,0 +1,19 @@
+{
+  "name": "pharmlk",
+  "version": "1.0.0",
+  "description": "Online delivery serveice system for Pharmacies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaveeshaG/pharmlk.git"
+  },
+  "author": "@KaveeshaG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaveeshaG/pharmlk/issues"
+  },
+  "homepage": "https://github.com/KaveeshaG/pharmlk#readme"
+}
